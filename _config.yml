@@ -1,21 +1,10 @@
-# _config.yml
 
-# Site settings
 title: My Jekyll Website
 description: This is a description of my awesome Jekyll-powered site. I like sharing!!!
-baseurl: "https://Dianyu-Lai.github.io"  # The base URL of your site (leave empty for GitHub Pages)
-url: "https://Dianyu-Lai.github.io"  # Replace 'username' with your GitHub username
-show_downloads: true
-google_analytics:
-theme: jekyll-theme-architect
-# Theme settings (you can choose from many pre-built themes in Jekyll)
 
 remote_theme: pages-themes/architect@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 # Social links (you can add links to your social profiles)
 
-
-# Other settings (you can add more as needed)
-markdown: kramdown  # The Markdown processor to use
 
