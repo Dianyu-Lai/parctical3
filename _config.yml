@@ -1,1 +1,16 @@
+# _config.yml
+
+# Site settings
+title: My Jekyll Website
+description: This is a description of my awesome Jekyll-powered site
+baseurl: ""  # The base URL of your site (leave empty for GitHub Pages)
+url: "https://username.github.io"  # Replace 'username' with your GitHub username
+
+# Theme settings (you can choose from many pre-built themes in Jekyll)
+theme: "minima"  # "minima" is a simple theme, you can choose another if you prefer
+
+# Social links (you can add links to your social profiles)
+
+# Other settings (you can add more as needed)
+markdown: kramdown  # The Markdown processor to use
 
