@@ -7,7 +7,7 @@ baseurl: "https://Dianyu-Lai.github.io"  # The base URL of your site (leave empt
 url: "https://Dianyu-Lai.github.io"  # Replace 'username' with your GitHub username
 
 # Theme settings (you can choose from many pre-built themes in Jekyll)
-theme: "midnight"  # "minima" is a simple theme, you can choose another if you prefer
+theme: "Midnight"  # "minima" is a simple theme, you can choose another if you prefer
 
 # Social links (you can add links to your social profiles)
 
